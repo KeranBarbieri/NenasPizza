@@ -1,0 +1,11 @@
+
+1	Portuguesa		50,000000
+2	Paschoalito		49,000000
+3	Queijos		        55,000000
+4	Frango		        45,000000
+5	Strogonoff		48,000000
+6	Calabreza		46,000000
+7	Napolitana		45,000000
+8	Mussarela		43,000000
+9	Rucula		        49,000000
+16	peperone		56,000000

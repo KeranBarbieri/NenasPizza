@@ -1,0 +1,6 @@
+| Produto...............: Tomate
+| Fornecedor............: Passarinho 
+| Categoria.............: Fruta
+| Quantidade em Estoque.: 60
+| Valor Unitario........: 0,800000
+|=======================================================================|

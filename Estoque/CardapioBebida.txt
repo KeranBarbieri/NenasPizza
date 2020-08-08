@@ -1,0 +1,5 @@
+1	H2O	Agua	3,500000
+2	Black	Caipirinha	10,000000
+3	Skol	Cerveja	5,000000
+4	Brahma	Cerveja	5,000000
+5	Bohemia	Cerveja	7,000000
